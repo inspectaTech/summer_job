@@ -2,7 +2,8 @@
 
 ## coursework 8-9-18
 
-+ create git javascript notes
++ cli create git javascript notes\
+(using git bash terminal)
 + add notes to git_hub notes (cd,ls,mkdir,echo)
 
 + [customize git workspace](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/33417185870923)
@@ -10,6 +11,12 @@
 
 + use minimap & project-manager
 + change theme to white
+
++ save notes repo to the desktop
+
++ cli learn to create alias
++ create a daily initial commit and quick update with an alias\
+**(!!important: new files are not included in the quick updates)**
 
 ***
 
