@@ -1,5 +1,20 @@
 # Daily Plan
 
+## coursework 8-15-18
+json_notes
+```
+$ echo "# Json Notes
+
+### my first json_notes
+{
+	name:"Jojo",
+	sport:"basketball",
+	position:"guard"
+}
+" > json_notes.md
+```
+
+
 ## coursework 8-9-18
 
 + cli create git javascript notes\
