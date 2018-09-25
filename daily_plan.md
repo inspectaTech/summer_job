@@ -1,5 +1,23 @@
 # Daily Plan
 
+### [jimmy jazz site sample](http://www.jimmyjazz.com/mens/clothing/adidas-teo-run1-short-sleeve-tee/BQ7529-100?color=White)
+
+9-25
+continued [codepen jjz](https://codepen.io/inspectaTech/pen/EeOboX)
+- explored specificity ( used !important declarations)
+- vocab (selector{ [property:value;] = declaration} )
+- used class selectors
+- css comments
+- intro to ids & id selectors
+- nested tags (vocab attributes)
+
+supporting material
+- [flexbox froggy]()
+- [flexbox defense](http://www.flexboxdefense.com/)
+- [css grid video 10 part series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
+- [css grid garden](http://cssgridgarden.com/)
+
+
 ## coursework 8-15-18
 json_notes
 ```
